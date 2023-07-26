@@ -1,0 +1,9 @@
+2023-07-26T08:14:26.485Z In(05) vmx Log for VMware Workstation pid=1304 version=17.0.0 build=build-20800274 option=Release
+2023-07-26T08:14:26.485Z In(05) vmx The host is x86_64.
+2023-07-26T08:14:26.485Z In(05) vmx Host codepage=windows-1252 encoding=windows-1252
+2023-07-26T08:14:26.485Z In(05) vmx Host is Windows 10 Pro, 64-bit (Build 19044.3086)
+2023-07-26T08:14:26.485Z In(05) vmx Host offset from UTC is -03:00.
+2023-07-26T08:14:26.338Z In(05) vmx VTHREAD 728 "vmx"
+2023-07-26T08:14:26.349Z In(05) vmx LOCALE windows-1252 -> NULL User=2000 System=40c
+2023-07-26T08:14:26.349Z In(05) vmx Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2023-07-26T08:14:26.368Z In(05) vmx DictionaryLoad: Cannot open file "C:\Users\antsivaniai
